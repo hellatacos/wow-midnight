@@ -3,6 +3,7 @@
 - Heroic: <https://www.youtube.com/watch?v=QcnvMX41QkY>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=An-Ha2nWsUBINa9S&t=1751>
 ## Guides
+- Heroic Beta: <>
 - Heroic: <>
 - Mythic: <>
 ## Raid Plan
