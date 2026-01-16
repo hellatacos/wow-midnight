@@ -8,3 +8,6 @@
 ## Raid Plan
 - Heroic: <>
 - Mythic: <>
+## Assignments
+- Heroic: <>
+- Mythic: <>
