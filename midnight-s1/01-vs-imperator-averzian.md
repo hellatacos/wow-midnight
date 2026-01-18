@@ -15,7 +15,7 @@
 
 ## Raid Plan
 
-- Heroic: <>
+- Heroic: <https://raidplan.io/plan/v2z9f6ay2gbrffjc>
 - Mythic: <>
 
 ## Assignments
