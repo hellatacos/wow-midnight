@@ -24,6 +24,7 @@
 - Mouse Cursor <https://www.curseforge.com/wow/addons/ultimate-mouse-cursor>
 - Enhance QoL <https://www.curseforge.com/wow/addons/eqol>
 - Skyriding <https://www.curseforge.com/wow/addons/falcon>
+- Stats <https://www.curseforge.com/wow/addons/statsplus>
 ## Miscellaneous
 - Masque <https://www.curseforge.com/wow/addons/masque>
 - Chattynator <https://www.curseforge.com/wow/addons/chattynator>
