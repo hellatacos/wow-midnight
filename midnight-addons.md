@@ -29,6 +29,7 @@
 - Skyriding <https://www.curseforge.com/wow/addons/falcon>
 - Stats <https://www.curseforge.com/wow/addons/statsplus>
 - Talent Loadout Ex <https://www.curseforge.com/wow/addons/talent-loadout-ex>
+- /wa <https://www.curseforge.com/wow/addons/cooldown-manager-slash-command>
 ## Miscellaneous
 - Masque <https://www.curseforge.com/wow/addons/masque>
 - Chattynator <https://www.curseforge.com/wow/addons/chattynator>
@@ -42,6 +43,7 @@
 ## Mythic Plus
 - Targeted Spells <https://www.curseforge.com/wow/addons/targetedspells>
 - M+ Timer <https://www.curseforge.com/wow/addons/mplustimer>
+- MDT <https://www.curseforge.com/wow/addons/mythic-dungeon-tools>
 
 
 
