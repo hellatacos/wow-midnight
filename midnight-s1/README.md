@@ -9,10 +9,12 @@
 - Heroic: <https://www.youtube.com/watch?v=QcnvMX41QkY>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=An-Ha2nWsUBINa9S&t=1751>
 - Mythic Retest: <https://www.youtube.com/watch?v=ZcG01E8D8zM>
+- Mythic Re-retest: <https://youtu.be/D4EBfuh_k04?t=5175>
 ### Fallen King Salhadaar
 - Heroic: <https://www.youtube.com/watch?v=pfn3_ZPyeug>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=CSFXEw0-_PMttjoc&t=2290>
 - Mythic Retest: <https://www.youtube.com/watch?v=J8tzZSYvsnk>
+- Mythic Re-retest: <https://youtu.be/D4EBfuh_k04?t=8803>
 ### Vaelgar and Ezzorak
 - Heroic: <https://www.youtube.com/watch?v=KVRiyXJ_ysE>
 - Mythic: <https://youtu.be/ChelZGenX0I?si=jmpp9yYEVfY8ztkw&t=645>
@@ -25,6 +27,7 @@
 ### Chimaerus
 - Heroic: <https://www.youtube.com/watch?v=Luz49ZW9UPE>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=orohjPijoiVYBmMg&t=49>
+- Mythic Retest: <https://youtu.be/D4EBfuh_k04?t=1692>
 ## March on Quel'Danas
 ### Belo'ren
 - Heroic: <https://www.youtube.com/watch?v=MJpWsts_jY8>
