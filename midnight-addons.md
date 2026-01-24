@@ -2,7 +2,6 @@
 ## Questionably Epic List
 - <https://questionablyepic.com/user-interface/prepatch-addons/>
 ## Cooldown Manager
-- NephUI <https://www.curseforge.com/wow/addons/nephui>
 - Arc UI <https://www.curseforge.com/wow/addons/arc-ui>
 - Tweaks <https://www.curseforge.com/wow/addons/cooldown-manager-tweaks>
 - CDM Centered <https://www.curseforge.com/wow/addons/cooldown-manager-centered>
@@ -30,6 +29,8 @@
 - Stats <https://www.curseforge.com/wow/addons/statsplus>
 - Talent Loadout Ex <https://www.curseforge.com/wow/addons/talent-loadout-ex>
 - /wa <https://www.curseforge.com/wow/addons/cooldown-manager-slash-command>
+- WilduTools <https://www.curseforge.com/wow/addons/wildutools>
+- Missing Buffs <https://www.curseforge.com/wow/addons/missing-class-buff>
 ## Miscellaneous
 - Masque <https://www.curseforge.com/wow/addons/masque>
 - Chattynator <https://www.curseforge.com/wow/addons/chattynator>
