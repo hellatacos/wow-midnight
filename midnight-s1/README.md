@@ -31,7 +31,7 @@
 ## March on Quel'Danas
 ### Belo'ren
 - Heroic: <https://www.youtube.com/watch?v=MJpWsts_jY8>
-- Mythic: <https://youtu.be/ChelZGenX0I?si=x4pLUb52RT2KZLjW>
+- Mythic: <https://youtu.be/ChelZGenX0I?si=mJt9KU9a-cjFN8Hr&t=24>
 ### Midnight Falls
 - No Testing
 ## Additional Notes
