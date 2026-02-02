@@ -45,6 +45,10 @@
 - Targeted Spells <https://www.curseforge.com/wow/addons/targetedspells>
 - M+ Timer <https://www.curseforge.com/wow/addons/mplustimer>
 - MDT <https://www.curseforge.com/wow/addons/mythic-dungeon-tools>
+## ElvUI
+- Live and working <https://tukui.org/elvui>
+- See Through Chat Bubbles <https://github.com/tukui-org/ElvUI/wiki/chat-bubble-replacements>
+- Performance Optimization <https://github.com/tukui-org/ElvUI/wiki/performance-optimization-retail>
 
 
 
