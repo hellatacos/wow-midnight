@@ -31,6 +31,7 @@
 - /wa <https://www.curseforge.com/wow/addons/cooldown-manager-slash-command>
 - WilduTools <https://www.curseforge.com/wow/addons/wildutools>
 - Missing Buffs <https://www.curseforge.com/wow/addons/missing-class-buff>
+- NaowhQOL <https://www.curseforge.com/wow/addons/naowhqol>
 ## Miscellaneous
 - Masque <https://www.curseforge.com/wow/addons/masque>
 - Chattynator <https://www.curseforge.com/wow/addons/chattynator>
