@@ -10,7 +10,7 @@
 - Mythic: <>
 ## Raid Plan
 - Heroic: <https://raidplan.io/plan/dr4eweeycqa6z7hv>
-- Mythic: <>
+- Mythic: <https://raidplan.io/plan/8M7s6gUZbDjsXf27>
 ## Assignments
 - Heroic: <>
 - Mythic: <>
