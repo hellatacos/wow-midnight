@@ -6,7 +6,7 @@
 - Heroic Beta: <>
 - Heroic: <>
 - Mythic: <>
-## Raid Plan
+## Raid Plans
 - Heroic: <>
 - Mythic: <>
 ## Assignments

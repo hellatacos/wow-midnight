@@ -5,10 +5,8 @@
 - Mythic Retest: <https://www.youtube.com/watch?v=b0DErTjrlGI>
 ## Guides
 - Heroic Beta - RCP: <https://www.youtube.com/watch?v=GeNGPGKIkhM>
-- Heroic Beta: <>
-- Heroic: <>
 - Mythic: <>
-## Raid Plan
+## Raid Plans
 - Heroic: <https://raidplan.io/plan/v2z9f6ay2gbrffjc>
 - Mythic: <https://raidplan.io/plan/SjcYaXNd8hn_hgOt>
 ## Assignments
