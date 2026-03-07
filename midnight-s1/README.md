@@ -2,29 +2,39 @@
 # Season 1 - Raid Testing
 ## The Voidspire
 ### Imperator Averzian
+#### Beta Testing
 - Heroic: <https://www.youtube.com/watch?v=KhEx2ZJoxbA>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=LpB3opQg-rMGsPd4&t=909>
 - Mythic Retest: <https://www.youtube.com/watch?v=b0DErTjrlGI>
+#### Guides
+- Heroic Beta - RCP: <https://www.youtube.com/watch?v=GeNGPGKIkhM>
+- Heroic Beta - Consequence: <https://www.youtube.com/watch?v=nDMiIvGvHRE>
 ### Vorasius
+- <b>Beta Testing</b>
 - Heroic: <https://www.youtube.com/watch?v=QcnvMX41QkY>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=An-Ha2nWsUBINa9S&t=1751>
 - Mythic Retest: <https://www.youtube.com/watch?v=ZcG01E8D8zM>
 - Mythic Re-retest: <https://youtu.be/D4EBfuh_k04?t=5175>
 ### Fallen King Salhadaar
+- <b>Beta Testing</b>
 - Heroic: <https://www.youtube.com/watch?v=pfn3_ZPyeug>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=CSFXEw0-_PMttjoc&t=2290>
 - Mythic Retest: <https://www.youtube.com/watch?v=J8tzZSYvsnk>
 - Mythic Re-retest: <https://youtu.be/D4EBfuh_k04?t=8803>
 ### Vaelgar and Ezzorak
+- <b>Beta Testing</b>
 - Heroic: <https://www.youtube.com/watch?v=KVRiyXJ_ysE>
 - Mythic: <https://youtu.be/ChelZGenX0I?si=jmpp9yYEVfY8ztkw&t=645>
 ### Lightblinded Vanguard
+- <b>Beta Testing</b>
 - Heroic: <https://www.youtube.com/watch?v=xTIjaVFOqgw>
 - Mythic: <https://youtu.be/ChelZGenX0I?si=eUYR7sG4M6nZgHt5&t=1119>
 ### Crown of the Cosmos
+- <b>Beta Testing</b>
 - No Testing
 ## The Dreamrift
 ### Chimaerus
+- <b>Beta Testing</b>
 - Heroic: <https://www.youtube.com/watch?v=Luz49ZW9UPE>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=orohjPijoiVYBmMg&t=49>
 - Mythic Retest: <https://youtu.be/D4EBfuh_k04?t=1692>
