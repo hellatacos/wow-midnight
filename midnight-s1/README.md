@@ -40,7 +40,7 @@
 - Mythic: <https://youtu.be/ChelZGenX0I?si=eUYR7sG4M6nZgHt5&t=1119>
 #### Guides
 - Heroic Beta - RCP: <>
-- Heroic Beta - Consequence: <>
+- Heroic Beta - Consequence: <https://www.youtube.com/watch?v=lxvMV8eIzvo>
 ### Crown of the Cosmos
 #### Beta Testing
 - No Testing
