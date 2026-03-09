@@ -33,14 +33,14 @@
 - Mythic: <https://youtu.be/ChelZGenX0I?si=jmpp9yYEVfY8ztkw&t=645>
 #### Guides
 - Heroic Beta - RCP: <>
-- Heroic Beta - Consequence: <>
+- Heroic Beta - Consequence: <https://www.youtube.com/watch?v=lxvMV8eIzvo>
 ### Lightblinded Vanguard
 #### Beta Testing
 - Heroic: <https://www.youtube.com/watch?v=xTIjaVFOqgw>
 - Mythic: <https://youtu.be/ChelZGenX0I?si=eUYR7sG4M6nZgHt5&t=1119>
 #### Guides
 - Heroic Beta - RCP: <>
-- Heroic Beta - Consequence: <https://www.youtube.com/watch?v=lxvMV8eIzvo>
+- Heroic Beta - Consequence: <>
 ### Crown of the Cosmos
 #### Beta Testing
 - No Testing
