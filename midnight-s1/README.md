@@ -40,13 +40,13 @@
 - Mythic: <https://youtu.be/ChelZGenX0I?si=eUYR7sG4M6nZgHt5&t=1119>
 #### Guides
 - Heroic Beta - RCP: <>
-- Heroic Beta - Consequence: <>
+- Heroic Beta - Consequence: <https://www.youtube.com/watch?v=BHc_IjprsZo>
 ### Crown of the Cosmos
 #### Beta Testing
 - No Testing
 #### Guides
 - Heroic Beta - RCP: <>
-- Heroic Beta - Consequence: <>
+- Heroic Beta - Consequence: <https://www.youtube.com/watch?v=k0S-Cp2Nqr8>
 ## The Dreamrift
 ### Chimaerus
 #### Beta Testing
