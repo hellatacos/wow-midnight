@@ -7,7 +7,8 @@
 ## Alchemy
 - 
 ## Blacksmithing
-- 
+- Woggendazs-Illidan: armor
+- Agoodboy-Illidan: weapons
 ## Enchanting
 - Allthatjazz-Proudmoore
 ## Engineering
@@ -17,9 +18,9 @@
 - Memebeme-Illidan
 ## Leatherworking
 - Goobi-Proudmoore
-- Cohete-Proudmoore
+- Cohete-Proudmoore: armor
 ## Jewelcrafting
 - Allthatjazz-Proudmoore
-- Illiroobi-Proudmoore
+- Illiroobi-Proudmoore: rings
 ## Tailoring
 -
