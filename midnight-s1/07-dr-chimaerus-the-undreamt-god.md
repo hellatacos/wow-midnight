@@ -3,7 +3,7 @@
 - Heroic: <https://www.youtube.com/watch?v=Luz49ZW9UPE>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=orohjPijoiVYBmMg&t=49>
 ## Guides
-- Heroic Beta - RCP: <>
+- Heroic Beta - RCP: <https://www.youtube.com/watch?v=o4T5jAILWYc>
 - Heroic Beta - Consequence: <>
 - Mythic: <>
 ## Raid Plans
