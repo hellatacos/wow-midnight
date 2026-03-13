@@ -3,7 +3,7 @@
 - No Testing
 ## Guides
 - Heroic Beta - RCP: <>
-- Heroic Beta: <>
+- Heroic Beta - Consequence: <>
 - Heroic: <>
 - Mythic: <>
 ## Raid Plans

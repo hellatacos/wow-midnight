@@ -4,6 +4,7 @@
 - Mythic: <https://youtu.be/ChelZGenX0I?si=x4pLUb52RT2KZLjW>
 ## Guides
 - Heroic Beta - RCP: <>
+- Heroic Beta - Consequence: <>
 - Mythic: <>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/cq36k6994gkkd2d2>
