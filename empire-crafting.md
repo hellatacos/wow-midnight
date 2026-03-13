@@ -5,22 +5,26 @@
   - This has all Eternal Kingdom crafters.
   - Ping Jazzy repeatedly if any issues.
 ## Alchemy
-- 
+- bueller?
 ## Blacksmithing
-- Woggendazs-Illidan: armor
 - Agoodboy-Illidan: weapons
+- Anakín-Proudmoore: swords
+- Marajadexd-Proudmoore: armor
+- Woggendazs-Illidan: armor
 ## Enchanting
 - Allthatjazz-Proudmoore
 ## Engineering
-- 
+- bueller?
 ## Inscription
-- Ragingjazzy-Proudmoore
 - Memebeme-Illidan
+- Ragingjazzy-Proudmoore
 ## Leatherworking
-- Goobi-Proudmoore
 - Cohete-Proudmoore: armor
+- Glaivejazzy-Proudmoore
+- Goobi-Proudmoore
 ## Jewelcrafting
 - Allthatjazz-Proudmoore
 - Illiroobi-Proudmoore: rings
+- Marâjade-Proudmoore: rings, necks
 ## Tailoring
--
+- Sídíous-Proudmoore
