@@ -27,4 +27,5 @@
 - Illiroobi-Proudmoore: rings
 - Marâjade-Proudmoore: rings, necks
 ## Tailoring
+- Dlockie-Proudmoore
 - Sídíous-Proudmoore
