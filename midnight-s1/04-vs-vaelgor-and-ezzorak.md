@@ -6,6 +6,8 @@
 - Heroic Beta - RCP: <https://www.youtube.com/watch?v=335GwvXskeE>
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=lxvMV8eIzvo>
 - Mythic: <>
+## Heroic Recap
+https://i.imgur.com/SH9nfay.jpeg
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/r63h3h47pwe6zw6j>
 - Mythic: <>

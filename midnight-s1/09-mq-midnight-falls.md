@@ -3,9 +3,10 @@
 - No Testing
 ## Guides
 - Heroic Beta - RCP: <>
-- Heroic Beta - Consequence: <>
-- Heroic: <>
+- Heroic Beta - Consequence: <https://www.youtube.com/watch?v=MJQdTiWQ1zo>
 - Mythic: <>
+## Heroic Recap
+
 ## Raid Plans
 - Heroic: <>
 - Mythic: <>

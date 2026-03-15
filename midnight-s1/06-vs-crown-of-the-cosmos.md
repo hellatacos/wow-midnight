@@ -6,6 +6,8 @@
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=k0S-Cp2Nqr8>
 - Heroic: <>
 - Mythic: <>
+## Heroic Recap
+
 ## Raid Plans
 - Heroic: <>
 - Mythic: <>
