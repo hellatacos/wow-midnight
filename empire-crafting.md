@@ -5,7 +5,7 @@
   - This has all Eternal Kingdom crafters.
   - Ping Jazzy repeatedly if any issues.
 ## Alchemy
-- bueller?
+- Palp has like 15 alchemists
 ## Blacksmithing
 - Agoodboy-Illidan: weapons
 - Anakín-Proudmoore: swords
@@ -16,10 +16,12 @@
 ## Engineering
 - bueller?
 ## Inscription
+- Freetacos-Proudmoore: staves
 - Memebeme-Illidan
 - Ragingjazzy-Proudmoore
 ## Leatherworking
 - Cohete-Proudmoore: armor
+- Garchwomp-Proumoore
 - Glaivejazzy-Proudmoore
 - Goobi-Proudmoore
 ## Jewelcrafting
