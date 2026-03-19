@@ -4,6 +4,7 @@
 ## Guides
 - Heroic Beta - RCP: <>
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=k0S-Cp2Nqr8>
+- Normal - Jak: <https://www.youtube.com/watch?v=oaRSGluuuqs>
 - Heroic: <>
 - Mythic: <>
 ## Heroic Recap
