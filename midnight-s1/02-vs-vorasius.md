@@ -6,7 +6,7 @@
 ## Guides
 - Heroic Beta - RCP: <https://www.youtube.com/watch?v=BUQYeX-h54o>
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=E8UbEV8JyTI>
-- Mythic: <>
+- Mythic - Tactyks: <https://youtu.be/n64UO4neHzw?si=V5e69oHtypbb46EQ&t=598>
 ## Heroic Recap
 https://i.imgur.com/Pla0ZzB.jpeg
 ## Raid Plans
