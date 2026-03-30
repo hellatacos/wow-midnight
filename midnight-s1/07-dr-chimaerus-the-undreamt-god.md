@@ -11,7 +11,7 @@
 https://i.imgur.com/R6RGisi.jpeg
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/t4crgr8z2v9v4twq>
-- Mythic: <>
+- Mythic: <https://raidplan.io/plan/Z_G_hB3RwPB7y10u>
 ## Assignments
 - Heroic: <>
 - Mythic: <>
