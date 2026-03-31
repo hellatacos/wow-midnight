@@ -5,7 +5,8 @@
 ## Guides
 - Heroic Beta - RCP: <https://www.youtube.com/watch?v=o4T5jAILWYc>
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=ilM_rgDUN_8>
-- Mythic - Liquid Kill: <https://www.youtube.com/watch?v=mcY2ZCRqx_4>
+- Mythic - Liquid Kill: <https://www.youtube.com/watch?v=-uCW7HjMKX8>
+- Mythic - Skill Issue: <https://www.youtube.com/watch?v=mcY2ZCRqx_4>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=KUANsR-hyRs>
 ## Heroic Recap
 https://i.imgur.com/R6RGisi.jpeg
