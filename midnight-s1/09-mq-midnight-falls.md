@@ -4,9 +4,8 @@
 ## Guides
 - Heroic Beta - RCP: <>
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=MJQdTiWQ1zo>
+- Heroic - Jak: <https://www.youtube.com/watch?v=fkMwt-hunu8>
 - Mythic: <>
-## Heroic Recap
-
 ## Raid Plans
 - Heroic: <>
 - Mythic: <>
