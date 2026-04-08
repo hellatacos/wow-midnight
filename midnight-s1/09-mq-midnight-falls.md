@@ -2,9 +2,9 @@
 ## Beta Testing Vods
 - No Testing
 ## Guides
-- Heroic Beta - RCP: <>
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=MJQdTiWQ1zo>
 - Heroic - Jak: <https://www.youtube.com/watch?v=fkMwt-hunu8>
+- Heroic - RCP: <https://www.youtube.com/watch?v=wdyUcWvW6aA>
 - Mythic: <>
 ## Raid Plans
 - Heroic: <>
