@@ -16,3 +16,5 @@ https://i.imgur.com/SH9nfay.jpeg
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/vaelgor-and-ezzorak/mythic/69c6e8f703caaa2dbd630869/assignment>
 ## Healing CDs
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/vaelgor-and-ezzorak/mythic/69d467bb85ca649a391f7254>
+## World Marker Reference
+source raid plan for screenshot: https://raidplan.io/plan/jwvcpfdtggeryb7f/edit

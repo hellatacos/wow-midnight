@@ -17,3 +17,5 @@ https://i.imgur.com/Pla0ZzB.jpeg
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/vorasius/mythic/69c5982235190ecc8d4f6f82/assignment>
 ## Healing CDs
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/vorasius/mythic/69c58aff35190ecc8d4f6e38>
+## World Marker Reference
+source raid plan for screenshot: https://raidplan.io/plan/9q6cq82f8tjgs27d/edit

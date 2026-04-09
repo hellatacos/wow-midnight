@@ -17,3 +17,5 @@ https://i.imgur.com/Bvq1LUB.jpeg
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/fallen-king-salhadaar/mythic/69c6e8d36669d28ce4b1d918/assignment>
 ## Healing CDs
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/fallen-king-salhadaar/mythic/69ce89d46f0aed152c524a75>
+## World Marker Reference
+source raid plan for screenshot: https://raidplan.io/plan/5t6h36qagk54cbff/edit
