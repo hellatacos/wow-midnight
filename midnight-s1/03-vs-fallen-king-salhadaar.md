@@ -12,10 +12,8 @@
 https://i.imgur.com/Bvq1LUB.jpeg
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/929d8z9wgw767jyp>
-- Mythic: <>
+- Mythic: run in circle
 ## Assignments
-- Heroic: <>
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/fallen-king-salhadaar/mythic/69c6e8d36669d28ce4b1d918/assignment>
 ## Healing CDs
-- Heroic: <>
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/fallen-king-salhadaar/mythic/69ce89d46f0aed152c524a75>

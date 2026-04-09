@@ -11,10 +11,8 @@
 https://i.imgur.com/SH9nfay.jpeg
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/r63h3h47pwe6zw6j>
-- Mythic: <>
+- Mythic: <https://raidplan.io/plan/q_XGyshG2HvFsqX3>
 ## Assignments
-- Heroic: <>
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/vaelgor-and-ezzorak/mythic/69c6e8f703caaa2dbd630869/assignment>
 ## Healing CDs
-- Heroic: <>
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/vaelgor-and-ezzorak/mythic/69d467bb85ca649a391f7254>

@@ -14,8 +14,6 @@ https://i.imgur.com/neyjPA4.jpeg
 - Heroic: <https://raidplan.io/plan/v2z9f6ay2gbrffjc>
 - Mythic: <https://raidplan.io/plan/SjcYaXNd8hn_hgOt>
 ## Assignments
-- Heroic: <>
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/imperator-averzian/mythic/69c4db384796ae57bad81c98/assignment>
 ## Healing CDs
-- Heroic: <>
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/imperator-averzian/mythic/69c5866c35190ecc8d4f6dd7>

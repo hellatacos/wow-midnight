@@ -14,8 +14,6 @@ https://i.imgur.com/Pla0ZzB.jpeg
 - Heroic: <https://raidplan.io/plan/dr4eweeycqa6z7hv>
 - Mythic: <https://raidplan.io/plan/8M7s6gUZbDjsXf27>
 ## Assignments
-- Heroic: <>
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/vorasius/mythic/69c5982235190ecc8d4f6f82/assignment>
 ## Healing CDs
-- Heroic: <>
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/vorasius/mythic/69c58aff35190ecc8d4f6e38>
