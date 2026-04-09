@@ -17,3 +17,5 @@ https://i.imgur.com/R6RGisi.jpeg
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/chimaerus-the-undreamt-god/mythic/69c6e9876669d28ce4b1d919/assignment>
 ## Healing CDs
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/chimaerus-the-undreamt-god/mythic/69c8aad03c87974a0e30a8f1>
+## World Marker Reference
+source raid plan for screenshot: https://raidplan.io/plan/j7swtz7pfrg98h7s/edit
