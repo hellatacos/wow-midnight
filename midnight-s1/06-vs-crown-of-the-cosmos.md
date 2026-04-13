@@ -5,8 +5,8 @@
 - Heroic Beta - RCP: <>
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=k0S-Cp2Nqr8>
 - Normal - Jak: <https://www.youtube.com/watch?v=oaRSGluuuqs>
-- Heroic: <>
-- Mythic: <>
+- Heroic - Dratnos: <https://www.youtube.com/watch?v=OU8c2-vvTsc>
+- Mythic - Tactyks: <https://www.youtube.com/watch?v=jwKg-syVh8Y>
 ## Heroic Recap
 
 ## Raid Plans
