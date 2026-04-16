@@ -11,10 +11,16 @@
 https://i.imgur.com/lqfjzIc.jpeg
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/uuwj94vzaxagg27j>
-- Mythic: <>
+- Mythic: <https://raidplan.io/plan/bxs7fhwjgy6v7yu9>
 ## Assignments
 - Heroic: <>
 - Mythic: <>
 ## Healing CDs
 - Heroic: <>
 - Mythic: <>
+
+
+
+M33kAuras: <https://github.com/m33shoq/M33kAuras/releases>
+Heal Absorb on Raid Frame: <https://wago.io/lylBMpoMB>
+Dispel Assignments: <https://wago.io/NspRXIk6n>
