@@ -7,6 +7,7 @@
 - Normal - Jak: <https://www.youtube.com/watch?v=oaRSGluuuqs>
 - Heroic - Dratnos: <https://www.youtube.com/watch?v=OU8c2-vvTsc>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=jwKg-syVh8Y>
+- Mythic - Skill Issue: <https://www.youtube.com/watch?v=3oPPvVVGqFg>
 ## Heroic Recap
 
 ## Raid Plans
