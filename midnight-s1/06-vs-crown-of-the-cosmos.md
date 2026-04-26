@@ -9,7 +9,7 @@
 - Mythic - Skill Issue: <https://www.youtube.com/watch?v=3oPPvVVGqFg>
 ## Raid Plans
 - Mythic - P1 + Intermission: <https://raidplan.io/plan/vt363kf4gv33v7fk>
-- Mythic - P2 + Intermission: <>
+- Mythic - P2 + Intermission: <https://raidplan.io/plan/AvqCNZve2g0m0swp>
 - Mythic - P3: <>
 ## Assignments
 - Mythic: <>
