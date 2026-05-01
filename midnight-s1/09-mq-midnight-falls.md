@@ -5,7 +5,7 @@
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=MJQdTiWQ1zo>
 - Heroic - Jak: <https://www.youtube.com/watch?v=fkMwt-hunu8>
 - Heroic - RCP: <https://www.youtube.com/watch?v=wdyUcWvW6aA>
-- Mythic: <>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=6uLe-EU8hD0>
 ## Raid Plans
 - Heroic: <>
 - Mythic: <>
