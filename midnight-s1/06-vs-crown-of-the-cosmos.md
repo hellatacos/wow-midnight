@@ -10,7 +10,7 @@
 ## Raid Plans
 - Mythic - P1 + Intermission: <https://raidplan.io/plan/vt363kf4gv33v7fk>
 - Mythic - P2 + Intermission: <https://raidplan.io/plan/AvqCNZve2g0m0swp>
-- Mythic - P3: <>
+- Mythic - P3: <https://raidplan.io/plan/gy3kec866qhy7dvd>
 ## Assignments
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/crown-of-the-cosmos/mythic/69e969879f5f26aa0aa04113/assignment>
 ## Healing CDs
