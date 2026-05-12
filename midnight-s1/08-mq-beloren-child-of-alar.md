@@ -7,6 +7,7 @@
 - Heroic Beta - Consequence: <https://www.youtube.com/watch?v=SNbAgg3XqFA>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=DUVxub3fA7w>
 - Mythic - Dratnos: <https://www.youtube.com/watch?v=2VASKuKsHos>
+- Mythic - Skill Issue: <https://www.youtube.com/watch?v=AETwmQ1fA38>
 ## Heroic Recap
 https://i.imgur.com/VlayXI0.jpeg
 ## Raid Plans
