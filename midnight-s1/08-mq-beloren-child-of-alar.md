@@ -14,7 +14,7 @@ https://i.imgur.com/VlayXI0.jpeg
 - Heroic: <https://raidplan.io/plan/cq36k6994gkkd2d2>
 - Mythic - Top/Bottom: <https://raidplan.io/plan/6v5ws5dyh4swxprc>
 - Mythic - Left/Right: <https://raidplan.io/plan/9HhhynzQC-kcPyet>
-- Mythic - Intermission: <>
+- Mythic - Intermission: <https://raidplan.io/plan/4ekv65hj2cw8c35b>
 ## Assignments
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/beloren-child-of-alar/mythic/69fa4823c1b505b0cc5027e2/assignment>
 ## Healing CDs
