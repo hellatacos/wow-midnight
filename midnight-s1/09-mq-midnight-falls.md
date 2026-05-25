@@ -8,7 +8,8 @@
 - Mythic - Consequence: <https://www.youtube.com/watch?v=6uLe-EU8hD0>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=anQY6SGmfyI>
 - Mythic - Dratnos: <https://www.youtube.com/watch?v=TTq-MKdj5IY>
-- Mythic - Skill Issue
+- Mythic - Skill Issue P1: <https://www.youtube.com/watch?v=y12zE8Pa1uI>
+- Mythic - Skill Issue P2: <https://www.youtube.com/watch?v=qVX-mjojMmY>
 ## Raid Plans
 - Mythic: <>
 ## Assignments
