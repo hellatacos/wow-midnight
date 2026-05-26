@@ -11,7 +11,7 @@
 - Mythic - Skill Issue P1: <https://www.youtube.com/watch?v=y12zE8Pa1uI>
 - Mythic - Skill Issue P2: <https://www.youtube.com/watch?v=qVX-mjojMmY>
 ## Raid Plans
-- Mythic: <>
+- Mythic - P1: <https://raidplan.io/plan/vp43zgpq2qh3s98u>
 ## Assignments
 - Mythic: <>
 ## Healing CDs
