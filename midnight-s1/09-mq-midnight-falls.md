@@ -17,4 +17,6 @@
 ## Healing CDs
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/midnight-falls/mythic/69fb59c0b73b372adb3a758a>
 ## Interrupt Macros
-- <https://wowutils.com/viserio-cooldowns/raid/interrupt-macro?d=eyJiIjoiTWlkbmlnaHQgRmFsbHMiLCJidCI6Ik1pZG5pZ2h0IEZhbGxzIiwidCI6IlAxIFRlcm1pbmF0ZSBLaWNrcyBPcmRlciIsInIiOlt7ImJmIjoyLCJwIjpbXX0seyJiZiI6MywicCI6W119LHsiYmYiOjQsInAiOltdfV19>
+- <https://wowutils.com/viserio-cooldowns/raid/interrupt-macro>
+  - create the macro appropriate for your assignment
+  - or go Assignments > P1 Terminate Kicks Order > Generate Interrupt Macro
