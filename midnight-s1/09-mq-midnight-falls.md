@@ -10,8 +10,11 @@
 - Mythic - Dratnos: <https://www.youtube.com/watch?v=TTq-MKdj5IY>
 - Mythic - Skill Issue P1: <https://www.youtube.com/watch?v=y12zE8Pa1uI>
 - Mythic - Skill Issue P2: <https://www.youtube.com/watch?v=qVX-mjojMmY>
+- Mythic - Skill Issue P3: <https://www.youtube.com/watch?v=SH8ig-DMxUQ>
 ## Raid Plans
 - Mythic - P1: <https://raidplan.io/plan/vp43zgpq2qh3s98u>
+- Mythic - Intermission: <https://raidplan.io/plan/9a8c8wcqfdk9vbct>
+- Mythic - P2: <https://raidplan.io/plan/yk98wge88xvz36zq>
 ## Assignments
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/midnight-falls/mythic/69fb59d3dcbe4ac4c5dd1b78/assignment>
 ## Healing CDs
