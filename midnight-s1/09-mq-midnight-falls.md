@@ -15,7 +15,8 @@
 - Mythic - P1: <https://raidplan.io/plan/vp43zgpq2qh3s98u>
 - Mythic - Intermission: <https://raidplan.io/plan/9a8c8wcqfdk9vbct>
 - Mythic - P2: <https://raidplan.io/plan/yk98wge88xvz36zq>
-- Mythic - P3: <https://raidplan.io/plan/97zadvttryhpbvjq>
+- Mythic - P3: <https://raidstrats.gg/planner?view=adfb2c1e-874d-479b-9547-c326f34da354>
+  - Note: this is taken directly from WoWUtils
 ## Assignments
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/midnight-falls/mythic/69fb59d3dcbe4ac4c5dd1b78/assignment>
 ## Healing CDs
