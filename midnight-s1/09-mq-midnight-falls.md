@@ -15,6 +15,7 @@
 - Mythic - P1: <https://raidplan.io/plan/vp43zgpq2qh3s98u>
 - Mythic - Intermission: <https://raidplan.io/plan/9a8c8wcqfdk9vbct>
 - Mythic - P2: <https://raidplan.io/plan/yk98wge88xvz36zq>
+- Mythic - P3: <https://raidplan.io/plan/97zadvttryhpbvjq>
 ## Assignments
 - Mythic: <https://wowutils.com/viserio-cooldowns/raid/midnight-falls/mythic/69fb59d3dcbe4ac4c5dd1b78/assignment>
 ## Healing CDs
@@ -23,3 +24,5 @@
 - <https://wowutils.com/viserio-cooldowns/raid/interrupt-macro>
   - create the macro appropriate for your assignment
   - or go Assignments > P1 Terminate Kicks Order > Generate Interrupt Macro
+## World Marker Referene
+- source: <https://raidplan.io/plan/9a8c8wcqfdk9vbct>
