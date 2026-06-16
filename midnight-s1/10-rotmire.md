@@ -8,6 +8,6 @@
 ## Raid Plans
 - Mythic: <https://raidplan.io/plan/epkybb7y56xffxft>
 ## Assignments
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/rotmire/mythic/6a30b3bfabd8e33d0b5363ea/assignment>
 ## Healing CDs
-- Mythic: <>
+- Mythic: <https://wowutils.com/viserio-cooldowns/raid/rotmire/mythic/6a3033f1a8bc735e6ead069f>
