@@ -1,4 +1,4 @@
-# Beta Testing
+# Nek'zali the Soulcoiler
 ## Beta Testing Vods
 - Heroic: <>
 - Mythic: <>
