@@ -1,6 +1,6 @@
 # The Lost Explorers
 ## Beta Testing Vods
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=Bd81YKcWvCA>
 - Mythic: <>
 ## Guides
 - Heroic: <>

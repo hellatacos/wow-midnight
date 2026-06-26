@@ -1,6 +1,6 @@
 # Entombed Sentinels
 ## Beta Testing Vods
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=mX55wnvq-4o>
 - Mythic: <>
 ## Guides
 - Heroic: <>

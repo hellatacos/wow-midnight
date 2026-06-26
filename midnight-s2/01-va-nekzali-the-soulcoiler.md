@@ -1,6 +1,6 @@
 # Nek'zali the Soulcoiler
 ## Beta Testing Vods
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=f2XUVOsDGJo>
 - Mythic: <>
 ## Guides
 - Heroic: <>

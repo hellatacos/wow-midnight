@@ -3,11 +3,11 @@
 ## The Venomous Abyss
 ### Nek'zali the Soulcoiler
 #### Beta Testing
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=f2XUVOsDGJo>
 - Mythic: <>
 ### Entombed Sentinels
 #### Beta Testing
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=mX55wnvq-4o>
 - Mythic: <>
 ### Vashnik the Malignant
 #### Beta Testing
@@ -15,7 +15,7 @@
 - Mythic: <>
 ### The Lost Explorers
 #### Beta Testing
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=Bd81YKcWvCA>
 - Mythic: <>
 ### Sszorak
 #### Beta Testing
