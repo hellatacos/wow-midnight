@@ -1,6 +1,6 @@
 # Vashnik the Malignant
 ## Beta Testing Vods
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=LQhnPH3VKLs>
 - Mythic: <>
 ## Guides
 - Heroic: <>

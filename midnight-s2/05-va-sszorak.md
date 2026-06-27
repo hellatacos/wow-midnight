@@ -1,6 +1,6 @@
 # Sszorak
 ## Beta Testing Vods
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=CgUE_QLAQZ4>
 - Mythic: <>
 ## Guides
 - Heroic: <>

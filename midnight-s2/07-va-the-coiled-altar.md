@@ -1,6 +1,6 @@
 # The Coiled Altar
 ## Beta Testing Vods
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=Pob2JMFlQH8>
 - Mythic: <>
 ## Guides
 - Heroic: <>

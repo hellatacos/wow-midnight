@@ -1,6 +1,6 @@
 # The Twin Fangs
 ## Beta Testing Vods
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=aX4DwuZiEJg>
 - Mythic: <>
 ## Guides
 - Heroic: <>

@@ -11,7 +11,7 @@
 - Mythic: <>
 ### Vashnik the Malignant
 #### Beta Testing
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=LQhnPH3VKLs>
 - Mythic: <>
 ### The Lost Explorers
 #### Beta Testing
@@ -19,15 +19,15 @@
 - Mythic: <>
 ### Sszorak
 #### Beta Testing
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=CgUE_QLAQZ4>
 - Mythic: <>
 ### The Twin Fangs
 #### Beta Testing
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=aX4DwuZiEJg>
 - Mythic: <>
 ### The Coiled Altar
 #### Beta Testing
-- Heroic: <>
+- Heroic: <https://www.youtube.com/watch?v=Pob2JMFlQH8>
 - Mythic: <>
 ### Ula'tek
 #### Beta Testing
