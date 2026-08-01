@@ -38,6 +38,6 @@
 - Last boss, no testing.
 ## Additional Notes
 ### Testing Item Level
-- Normal: 
+- Normal: 290
 - Heroic: 301
 - Mythic: 321
