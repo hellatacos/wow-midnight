@@ -21,7 +21,7 @@
 ### Sszorak
 #### Beta Testing
 - Heroic - Kalamazi: <https://www.youtube.com/watch?v=CgUE_QLAQZ4>
-- Banshers: <https://www.youtube.com/watch?v=IP0WpaysrDg>
+- Mythic - Banshers: <https://www.youtube.com/watch?v=IP0WpaysrDg>
 - Mythic - Kalamazi: <https://youtu.be/0typEypPnoY?si=MYzpm62RmyjG1zAg&t=78>
 ### The Twin Fangs
 #### Beta Testing
