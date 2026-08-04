@@ -5,6 +5,7 @@
 - Mythic - Kalamazi: <https://www.youtube.com/watch?v=0typEypPnoY&t=1290s>
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=397s>
+- Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/coiled-altar>
 - Heroic: <>
 - Mythic: <>
 ## Raid Plans
