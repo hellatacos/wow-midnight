@@ -1,6 +1,4 @@
 # Ula'tek
-## Beta Testing Vods
-- Last boss, no testing.
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=501s>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/ulatek>
@@ -13,5 +11,5 @@
 - Heroic: <>
 - Mythic: <>
 ## Healing CDs
-- Mythic: <>
 - Heroic: <>
+- Mythic: <>

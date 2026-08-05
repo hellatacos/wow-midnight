@@ -13,5 +13,5 @@
 - Heroic: <>
 - Mythic: <>
 ## Healing CDs
-- Mythic: <>
 - Heroic: <>
+- Mythic: <>
