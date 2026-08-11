@@ -5,7 +5,7 @@
 ## Guides
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/nymrissa/>
 - Heroic: <>
-- Mythic: <>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=L4_9ODMwIUw>
 ## Raid Plans
 - Heroic: <>
 - Mythic: <>
