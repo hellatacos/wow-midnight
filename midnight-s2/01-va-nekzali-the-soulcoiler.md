@@ -4,8 +4,9 @@
 - Mythic - Banshers: <https://www.youtube.com/watch?v=yhWcMnDQRrA>
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=21s>
+- Heroic - RCP Guide: <https://www.youtube.com/watch?v=YBn4-mMBLs4>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/nekzali>
-- Heroic: <>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=kjA0PF6Nbbw>
 - Mythic: <>
 ## Raid Plans
 - Heroic: <>

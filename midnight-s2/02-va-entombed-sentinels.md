@@ -5,7 +5,7 @@
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=66s>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/entombed-sentinels/>
-- Heroic - Consequence: <https://www.youtube.com/watch?v=9mh8Rk2nI4Y>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=9mh8Rk2nI4Y>
 - Mythic: <>
 ## Raid Plans
 - Heroic: <>
