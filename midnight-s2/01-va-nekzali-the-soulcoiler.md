@@ -7,9 +7,8 @@
 - Heroic - RCP Guide: <https://www.youtube.com/watch?v=YBn4-mMBLs4>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/nekzali>
 - Mythic - Consequence: <https://www.youtube.com/watch?v=kjA0PF6Nbbw>
-- Mythic: <>
 ## Raid Plans
-- Heroic: <>
+- Heroic: <https://raidplan.io/plan/5rjc69a84gkaxp5z>
 - Mythic: <>
 ## Assignments
 - Heroic: <>
