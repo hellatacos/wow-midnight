@@ -6,7 +6,7 @@
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=130s>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/vashnik>
 - Heroic: <>
-- Mythic: <>
+- Mythic - Consequence PTR: <https://www.youtube.com/watch?v=H4N721HjnSI>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/7faxdtkc2wzr8gpe>
 - Mythic: <>
