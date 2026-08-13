@@ -4,6 +4,7 @@
 - Mythic - Banshers: <https://www.youtube.com/watch?v=PEzYv1hQIhw>
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=130s>
+- Heroic - RCP Guide: <https://www.youtube.com/watch?v=TV6iLpTiLAY>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/vashnik>
 - Heroic - TLDR Guide: <https://www.youtube.com/watch?v=qS-zTyJPZ60>
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=H4N721HjnSI>
