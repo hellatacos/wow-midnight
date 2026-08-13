@@ -7,7 +7,7 @@
 - Heroic: <>
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=L4_9ODMwIUw>
 ## Raid Plans
-- Heroic: <>
+- Heroic: <https://raidplan.io/plan/c4z9wezbxxsxktj4>
 - Mythic: <>
 ## Assignments
 - Heroic: <>
