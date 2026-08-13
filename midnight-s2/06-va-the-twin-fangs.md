@@ -6,7 +6,7 @@
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=342s>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/twin-fangs>
-- Heroic: <>
+- Heroic - TLDR Guide: <https://www.youtube.com/watch?v=CaROdE8_rks>
 - Mythic: <>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/2asjv8ufjujedk98>

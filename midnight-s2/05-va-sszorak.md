@@ -6,7 +6,7 @@
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=276s>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/sszorak>
-- Heroic: <>
+- Heroic - TLDR Guide: <https://www.youtube.com/watch?v=pQy5BZK3n4g>
 - Mythic: <>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/2w8yv85ark5caspu>

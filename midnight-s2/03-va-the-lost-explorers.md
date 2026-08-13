@@ -5,6 +5,7 @@
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=214s>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/lost-explorers>
+- Heroic - TLDR Guide: <https://www.youtube.com/watch?v=TaiaFtrkFcs>
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=JvjRg6WPoBY>
 - Mythic - Skill Issue PTR: <https://www.youtube.com/watch?v=zslrAXfXGKY>
 ## Raid Plans
