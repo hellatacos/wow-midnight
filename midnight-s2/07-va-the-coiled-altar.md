@@ -9,7 +9,7 @@
 - Heroic - TLDR Guide: <https://www.youtube.com/watch?v=818k4yfy8D4>
 - Mythic: <>
 ## Raid Plans
-- Heroic: <>
+- Heroic: <https://raidplan.io/plan/9gwspuawz3jjavdq>
 - Mythic: <>
 ## Assignments
 - Heroic: <>
