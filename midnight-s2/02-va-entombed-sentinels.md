@@ -12,9 +12,5 @@
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/j2yjr48v9krr96w8>
 - Mythic: <>
-## Assignments
-- Heroic: <>
-- Mythic: <>
-## Healing CDs
-- Heroic: <>
-- Mythic: <>
+## Assignments + Healing CDs
+- WoWUtils: <https://wowutils.com/viserio-cooldowns/planning?groupId=67c49b59cb1505173e3d6e0d>
