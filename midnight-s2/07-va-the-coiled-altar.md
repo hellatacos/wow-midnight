@@ -7,7 +7,7 @@
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=397s>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/coiled-altar>
 - Heroic - TLDR Guide: <https://www.youtube.com/watch?v=818k4yfy8D4>
-- Mythic: <>
+- Mythic - Consequence PTR: <https://www.youtube.com/watch?v=0R9lro6VokE>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/9gwspuawz3jjavdq>
 - Mythic: <>
