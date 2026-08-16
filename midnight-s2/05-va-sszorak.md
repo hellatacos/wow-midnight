@@ -5,6 +5,7 @@
 - Mythic - Kalamazi: <https://youtu.be/0typEypPnoY?si=MYzpm62RmyjG1zAg&t=78>
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=276s>
+- Heroic - RCP Guide: <https://www.youtube.com/watch?v=JfoF-C3MxtU>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/sszorak>
 - Heroic - TLDR Guide: <https://www.youtube.com/watch?v=pQy5BZK3n4g>
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=2iJ37dO1vZk>

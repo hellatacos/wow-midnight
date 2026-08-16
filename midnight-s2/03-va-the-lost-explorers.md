@@ -4,6 +4,7 @@
 - Mythic - Banshers: <https://www.youtube.com/watch?v=69SFO1evHaA>
 ## Guides
 - Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=214s>
+- Heroic - RCP Guide: <https://www.youtube.com/watch?v=pCavoQ2tNNw>
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/lost-explorers>
 - Heroic - TLDR Guide: <https://www.youtube.com/watch?v=TaiaFtrkFcs>
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=JvjRg6WPoBY>
