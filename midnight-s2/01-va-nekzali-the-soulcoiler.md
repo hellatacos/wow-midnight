@@ -11,8 +11,10 @@
 - Mythic - Skill Issue PTR: <https://www.youtube.com/watch?v=kn9YBSYW-CQ>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/5rjc69a84gkaxp5z>
-- Mythic: <>
+- Mythic: <https://raidplan.io/plan/dddgz4xb4sc3y4vp>
 ## Assignments + Healing CDs
 - WoWUtils: <https://wowutils.com/viserio-cooldowns/planning?groupId=67c49b59cb1505173e3d6e0d>
+## World Marker Reference
+- source: <https://raidplan.io/plan/dddgz4xb4sc3y4vp>
 
 
