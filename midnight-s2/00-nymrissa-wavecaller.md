@@ -8,7 +8,7 @@
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=L4_9ODMwIUw>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/c4z9wezbxxsxktj4>
-- Mythic: <>
+- Mythic: <https://raidplan.io/plan/brpwbw8p5xcx7ahz>
 ## Assignments + Healing CDs
 - WoWUtils: <https://wowutils.com/viserio-cooldowns/planning?groupId=67c49b59cb1505173e3d6e0d>
 ## World Marker Reference
