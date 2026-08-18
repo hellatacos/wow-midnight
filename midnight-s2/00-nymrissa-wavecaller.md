@@ -4,7 +4,7 @@
 - Mythic - Banshers: <https://www.youtube.com/watch?v=DOksi-lyGYg>
 ## Guides
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/nymrissa/>
-- Heroic: <>
+- Heroic - RCP Guide: <https://www.youtube.com/watch?v=6rgPB1WPmgE>
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=L4_9ODMwIUw>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/c4z9wezbxxsxktj4>
