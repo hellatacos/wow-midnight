@@ -9,6 +9,7 @@
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/twin-fangs>
 - Heroic - TLDR Guide: <https://www.youtube.com/watch?v=CaROdE8_rks>
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=1x2-jQFSVz4>
+- Mythic - Skill Issue PTR: <https://www.youtube.com/watch?v=mefiY-QN8R4>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/2asjv8ufjujedk98>
 - Mythic: <>

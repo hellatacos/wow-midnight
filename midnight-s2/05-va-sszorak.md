@@ -9,6 +9,7 @@
 - Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/sszorak>
 - Heroic - TLDR Guide: <https://www.youtube.com/watch?v=pQy5BZK3n4g>
 - Mythic - Consequence PTR: <https://www.youtube.com/watch?v=2iJ37dO1vZk>
+- Mythic - Skill Issue PTR: <https://www.youtube.com/watch?v=Fq7tOz3FCRg>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/2w8yv85ark5caspu>
 - Mythic: <>
