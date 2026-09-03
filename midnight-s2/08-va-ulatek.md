@@ -7,3 +7,5 @@
 - Mythic: <>
 ## Assignments + Healing CDs
 - WoWUtils: <https://wowutils.com/viserio-cooldowns/planning?groupId=67c49b59cb1505173e3d6e0d>
+## World Marker Reference
+- source: <https://raidplan.io/plan/kwcjk4k2jf4bzj8r/edit>
