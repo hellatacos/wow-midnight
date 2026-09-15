@@ -1,6 +1,7 @@
 # The Lost Explorers
 ## Guides
 - Heroic - RCP Guide: <https://www.youtube.com/watch?v=pCavoQ2tNNw>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=UDTWDt2q7Z0>
 - Mythic - Skill Issue: <https://www.youtube.com/watch?v=8FWwfOY72wg>
 - Mythic - Tactyks: <https://youtu.be/IlgA0ntGEzQ?si=62GRiusHTi_VxJqy&t=604>
 ## Raid Plans

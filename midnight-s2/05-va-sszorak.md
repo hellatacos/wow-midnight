@@ -1,6 +1,8 @@
 # Sszorak
 ## Guides
 - Heroic - RCP Guide: <https://www.youtube.com/watch?v=JfoF-C3MxtU>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=BxEStUdnGgU>
+- Mythic - Skill Issue: <https://www.youtube.com/watch?v=AWJQx6NLZJ4>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=6W-CujtcHUQ>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/2w8yv85ark5caspu>

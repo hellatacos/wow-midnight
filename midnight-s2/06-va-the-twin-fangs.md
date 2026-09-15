@@ -1,11 +1,9 @@
 # The Twin Fangs
 ## Guides
-- Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=342s>
 - Heroic - RCP Guide: <https://www.youtube.com/watch?v=yVqnDDOYGMs>
-- Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/twin-fangs>
-- Heroic - TLDR Guide: <https://www.youtube.com/watch?v=CaROdE8_rks>
-- Mythic - Consequence PTR: <https://www.youtube.com/watch?v=1x2-jQFSVz4>
-- Mythic - Skill Issue PTR: <https://www.youtube.com/watch?v=mefiY-QN8R4>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=NDEVFD7bvEo>
+- Mythic - Skill Issue: <https://www.youtube.com/watch?v=761NnJgq9-o>
+- Mythic - Tactyks: <https://www.youtube.com/watch?v=zncJeqViiTs>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/2asjv8ufjujedk98>
 - Mythic: <>

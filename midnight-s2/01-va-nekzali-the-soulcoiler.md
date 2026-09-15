@@ -1,6 +1,7 @@
 # Nek'zali the Soulcoiler
 ## Guides
 - Heroic - RCP Guide: <https://www.youtube.com/watch?v=YBn4-mMBLs4>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=z7KheNrJLIc>
 - Mythic - Skill Issue: <https://www.youtube.com/watch?v=WQ4c-tMpCwk>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=IlgA0ntGEzQ>
 ## Raid Plans

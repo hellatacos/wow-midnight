@@ -1,6 +1,7 @@
 # Nymrissa Wavecaller
 ## Guides
-- Mythic - Skill Issue: <>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=Zt2dQdNtFrw>
+- Mythic - Skill Issue: <https://www.youtube.com/watch?v=9lXCznA2Pys>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=TNRyIz-mmaM>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/c4z9wezbxxsxktj4>
