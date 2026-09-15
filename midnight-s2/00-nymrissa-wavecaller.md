@@ -1,5 +1,6 @@
 # Nymrissa Wavecaller
 ## Guides
+- Heroic - RCP Guide: <https://www.youtube.com/watch?v=6rgPB1WPmgE>
 - Mythic - Consequence: <https://www.youtube.com/watch?v=Zt2dQdNtFrw>
 - Mythic - Skill Issue: <https://www.youtube.com/watch?v=9lXCznA2Pys>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=TNRyIz-mmaM>
