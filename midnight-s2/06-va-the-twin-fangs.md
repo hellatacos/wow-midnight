@@ -6,6 +6,8 @@
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=zncJeqViiTs>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/2asjv8ufjujedk98>
-- Mythic: <>
+- Mythic: <https://raidplan.io/plan/vkgbwrqhr9jyxr3k>
 ## Assignments + Healing CDs
 - WoWUtils: <https://wowutils.com/viserio-cooldowns/planning?groupId=67c49b59cb1505173e3d6e0d>
+## World Marker Reference
+- source: <https://raidplan.io/plan/vkgbwrqhr9jyxr3k/edit>
