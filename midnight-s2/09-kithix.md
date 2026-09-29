@@ -1,5 +1,5 @@
 # Kith'ix
-## Guides
+## PTR Testing
 - Heroic PTR - Banshers: <https://www.youtube.com/watch?v=bmSpuVLBPjk>
 - Mythic PTR - Banshers: <https://www.youtube.com/watch?v=Z-wseFZ4X3Q>
 ## Raid Plans
