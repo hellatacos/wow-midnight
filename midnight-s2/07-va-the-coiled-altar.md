@@ -1,11 +1,9 @@
 # The Coiled Altar
 ## Guides
-- Heroic - RCP Preview: <https://www.youtube.com/watch?v=W2zNL31Ly-A&t=397s>
 - Heroic - RCP Guide: <https://www.youtube.com/watch?v=3yREfPONtYM>
-- Heroic - QE 1 Page: <https://questionablyepic.com/venomous-abyss/coiled-altar>
-- Heroic - TLDR Guide: <https://www.youtube.com/watch?v=818k4yfy8D4>
-- Mythic - Consequence PTR: <https://www.youtube.com/watch?v=0R9lro6VokE>
-- Mythic - Skill Issue PTR: <https://www.youtube.com/watch?v=Mcq_TJr52L8>
+- Mythic - Consequence: <https://www.youtube.com/watch?v=LnGZ-ugGXos>
+- Mythic - Skill Issue (P1 + P2): <https://www.youtube.com/watch?v=ypWQKvBrSJU>
+- Mythic - Tactyks: <https://www.youtube.com/watch?v=xmUS__fk9Ow>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/9gwspuawz3jjavdq>
 - Mythic: <>
