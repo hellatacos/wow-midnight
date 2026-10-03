@@ -3,6 +3,7 @@
 - Heroic - RCP Guide: <https://www.youtube.com/watch?v=3yREfPONtYM>
 - Mythic - Consequence: <https://www.youtube.com/watch?v=LnGZ-ugGXos>
 - Mythic - Skill Issue (P1 + P2): <https://www.youtube.com/watch?v=ypWQKvBrSJU>
+- Mythic - Skill Issue (P3): <https://www.youtube.com/watch?v=fIzWMh0ecx0>
 - Mythic - Tactyks: <https://www.youtube.com/watch?v=xmUS__fk9Ow>
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/9gwspuawz3jjavdq>
