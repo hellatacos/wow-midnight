@@ -8,6 +8,7 @@
 ## Raid Plans
 - Heroic: <https://raidplan.io/plan/9gwspuawz3jjavdq>
 - Mythic - P1: <https://raidplan.io/plan/t3udzsajh4yc36kg>
+- Mythic - P2 + Int: <https://raidplan.io/plan/47avgpkpc47jydfx>
 ## Assignments + Healing CDs
 - WoWUtils: <https://wowutils.com/viserio-cooldowns/planning?groupId=67c49b59cb1505173e3d6e0d>
 ## World Marker Reference
